@@ -11,7 +11,7 @@ I am a highly motivated individual with a strong background in financial service
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=itsrummmy&show_icons=true&theme=ambient_gradient)<br/>
+![](https://github-readme-stats.vercel.app/api?username=itsrummmy&show_icons=true&theme=noctis_minimus)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=itsrummmy&theme=noctis_minimus&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsrummmy&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
