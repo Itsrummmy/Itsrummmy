@@ -12,7 +12,7 @@ I am a highly motivated individual with a strong background in financial service
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=itsrummmy&show_icons=true&theme=noctis_minimus)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=itsrummmy&theme=noctis_minimus&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?username=itsrummmy&theme=noctis_minimus)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsrummmy&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
