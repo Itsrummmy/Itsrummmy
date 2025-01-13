@@ -1,7 +1,5 @@
 # 💫 About Me:
-I am a graduate of Renewable Energy Engineering with a strong passion for Machine Learning and Artificial Intelligence. 
-
-I am a highly motivated individual with a strong background in financial services and a passion for exploring the intersection of finance and technology. I am eager to learn and contribute to the exciting field of AI and machine learning. I possess excellent analytical and problem-solving skills, and I am a fast learner with a strong desire to contribute to impactful projects.
+Ranmi. Data analyst with a passion for machine learning and a love for learning. Interests include reading, salsa, and exploring new technologies.
 
 
 ## 🌐 Socials:
