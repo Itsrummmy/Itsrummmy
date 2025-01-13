@@ -1,5 +1,5 @@
 # 💫 About Me:
-Ranmi. Data analyst with a passion for machine learning and a love for learning. Interests include reading, salsa, and exploring new technologies.
+Aspiring Data analyst with a passion for machine learning and a love for learning. Interests include reading, salsa, and exploring new technologies.
 
 
 ## 🌐 Socials:
