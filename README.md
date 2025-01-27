@@ -5,7 +5,7 @@ Aspiring Data analyst with a passion for machine learning and a love for learnin
 ## 🌐 Socials:
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=plastic&logo=Kaggle&logoColor=white)](https://www.kaggle.com/ranmia)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranmia/)
-[![Goodreads](https://img.shields.io/badge/Goodreads-372213?style=plastic&logo=oodreads&logoColor=white)](https://www.goodreads.com/user/show/29248629-ranmi)
+[![oodreads](https://img.shields.io/badge/Goodreads-372213?style=plastic&logo=Goodreads&logoColor=white)](https://www.goodreads.com/user/show/29248629-ranmi)
 
 
 # 💻 Tech Stack:
